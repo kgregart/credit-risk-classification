@@ -1,10 +1,10 @@
 # credit-risk-classification
 
-#Objective 
+## Objective 
 
 An overview of the analysis: Explain the purpose of this analysis.
 
-##Instructions
+## Instructions
 
 1. Split the Data into Training and Testing Sets
 
@@ -12,7 +12,7 @@ An overview of the analysis: Explain the purpose of this analysis.
 
 3. Write a Credit Risk Analysis Report
 
-##Results
+## Results
 
 How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
@@ -20,6 +20,6 @@ Write a Credit Risk Analysis Report:  Write a brief report that includes a summa
 
 The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
-##Summary
+## Summary
 
 A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
