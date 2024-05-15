@@ -2,7 +2,7 @@
 
 ## Objective 
 
-An overview of the analysis: Explain the purpose of this analysis.
+Apply various techniques to train and evaluate a model based on loan risk using a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 ## Instructions
 
@@ -15,6 +15,8 @@ An overview of the analysis: Explain the purpose of this analysis.
 ## Results
 
 How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
+
+C:\Users\14407\Documents\Data Analytics_Boot Camp\credit-risk-classification\Credit_Risk\Images
 
 Write a Credit Risk Analysis Report:  Write a brief report that includes a summary and analysis of the performance of the machine learning models that you used in this homework. You should write this report as the README.md file included in your GitHub repository. Structure your report by using the report template that Starter_Code.zip
 
