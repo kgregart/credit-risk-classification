@@ -16,7 +16,7 @@ Apply various techniques to train and evaluate a model based on loan risk using 
 
 How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
-## Classification Report
+### Classification Report
 
 ![Classification Report](Credit_Risk/Images/classification_report_credit_risk_classification.png)
 
