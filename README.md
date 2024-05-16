@@ -30,7 +30,7 @@ Apply various techniques to train and evaluate a model based on loan risk using 
 - Accuracy 99%
 - Precision 87%
 - Recall 95%
-- F1-Score 100%
+- F1-Score 91%
 
 ## Summary
 
