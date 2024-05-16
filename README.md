@@ -14,19 +14,19 @@ Apply various techniques to train and evaluate a model based on loan risk using 
 
 ## Results
 
+### Lostistic Regression Model
+
 ### Classification Report
 
 ![Classification Report](Credit_Risk/Images/classification_report_credit_risk_classification.png)
 
-###Lostistic Regression Model
-
-Healthy Loan 
+### Healthy Loan 
 - Accuracy 99%
 - Precision 100%
 - Recall 100%
 - F1-Score 100%
 
-High-Risk Loan
+### High-Risk Loan
 - Accuracy 99%
 - Precision 87%
 - Recall 95%
