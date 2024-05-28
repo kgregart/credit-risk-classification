@@ -1,6 +1,6 @@
 # credit-risk-classification
 
-![loan_application](https://github.com/kgregart/credit-risk-classification/blob/main/Credit_Risk/Images/loan_application.jpg)
+![cc_application](https://github.com/kgregart/credit-risk-classification/blob/main/Credit_Risk/Images/loan_application.jpg)
 
 ## Objective 
 
