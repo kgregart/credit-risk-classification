@@ -1,5 +1,7 @@
 # credit-risk-classification
 
+![loan_application](https://github.com/kgregart/credit-risk-classification/blob/main/Credit_Risk/Images/loan_application.jpg)
+
 ## Objective 
 
 Apply various techniques to train and evaluate a model based on loan risk using a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
